@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" preserveAspectRatio="xMidYMid slice">
+  <!-- Ilustración neutra provisional. Puede reemplazarse por una fotografía (ver index.html). -->
+  <rect width="600" height="450" fill="#e6eef5"/>
+  <circle cx="455" cy="110" r="38" fill="#f4e3b5"/>
+  <!-- volcanes lejanos -->
+  <path d="M0 300 L120 190 L150 205 L250 120 L300 150 L330 165 L420 95 L520 210 L600 250 L600 450 L0 450Z" fill="#b9cbdb"/>
+  <path d="M235 133 L250 120 L268 134 Z" fill="#ffffff" opacity=".7"/>
+  <path d="M405 108 L420 95 L436 110 Z" fill="#ffffff" opacity=".7"/>
+  <!-- colinas -->
+  <path d="M0 320 C90 270 170 285 260 300 C350 315 430 265 600 285 L600 450 L0 450Z" fill="#7fa98a"/>
+  <path d="M0 360 C120 330 220 345 330 355 C440 365 520 335 600 340 L600 450 L0 450Z" fill="#5b8f68"/>
+  <!-- campos -->
+  <path d="M0 395 C150 375 300 385 600 380 L600 450 L0 450Z" fill="#3f7d4e"/>
+  <g stroke="#7fb08b" stroke-width="2" fill="none" opacity=".6">
+    <path d="M40 420 C160 405 300 410 560 405"/>
+    <path d="M20 438 C170 425 320 430 590 425"/>
+  </g>
+</svg>

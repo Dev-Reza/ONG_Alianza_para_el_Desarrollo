@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ONG Alianza para el Desarrollo">
+  <!-- Logotipo provisional: reemplazar por el logo oficial manteniendo el nombre logo.svg -->
+  <rect width="64" height="64" rx="14" fill="#1d4a73"/>
+  <circle cx="26" cy="32" r="13" fill="none" stroke="#ffffff" stroke-width="4.5"/>
+  <circle cx="38" cy="32" r="13" fill="none" stroke="#8cc79b" stroke-width="4.5"/>
+</svg>
